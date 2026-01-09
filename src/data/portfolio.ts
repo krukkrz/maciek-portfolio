@@ -4,7 +4,7 @@ import {Portfolio} from "../types/types";
 export const portfolio: Portfolio = {
     sections: [
         {
-            title: "VLOGS",
+            title: "VLOGSy",
             videos: [
                 {
                     title: "[PL] What happened to me? The hardest start in my life | HYROX [Codziennie Fit] - editing, color grading",
