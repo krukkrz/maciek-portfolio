@@ -59,7 +59,7 @@ export const portfolio: Portfolio = {
                 },
                 {
                     title: "Promocja książki [Michał Wrzosek] - editing, color grading",
-                    yt_id: "EscC4i380ns"
+                    yt_id: "EscC4i380ns",
                     type: "VERTICAL"
                 }
             ]
