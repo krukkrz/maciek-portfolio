@@ -4,23 +4,23 @@ import {Portfolio} from "../types/types";
 export const portfolio: Portfolio = {
     sections: [
         {
-            title: "VLOGSy",
+            title: "VLOGS",
             videos: [
                 {
-                    title: "[PL] What happened to me? The hardest start in my life | HYROX [Codziennie Fit] - editing, color grading",
-                    yt_id: "Hkzj6ldjuCA"
-                },
-                {
-                    title: " [PL] Those mistakes makes you fail [Fit na zawsze] - editing, color grading",
-                    yt_id: "RIjUjbUkUco"
+                    title: "[PL] Series from Iceland [Krzysztof Gonciarz] - editing, color grading",
+                    yt_id: "bPX9a1pVdeA"
                 },
                 {
                     title: "[PL] I've met with UFO witnesses - SCAM or TRUTH [ojwojtek] - editing, color grading",
                     yt_id: "1poq3Ur_MeU"
                 },
                 {
-                    title: "[PL] Series from Iceland [Krzysztof Gonciarz] - editing, color grading",
-                    yt_id: "bPX9a1pVdeA"
+                    title: " [PL] Those mistakes makes you fail [Fit na zawsze] - editing, color grading",
+                    yt_id: "RIjUjbUkUco"
+                },
+                {
+                    title: "[PL] What happened to me? The hardest start in my life | HYROX [Codziennie Fit] - editing, color grading",
+                    yt_id: "Hkzj6ldjuCA"
                 },
                 {
                     title: "[PL] Lumberjack burger italian style! [Matteo Brunetti] - DOP, editing, color grading",
@@ -50,15 +50,15 @@ export const portfolio: Portfolio = {
             ]
         },
         {
-            title: "IG/TT - VERTICAL VIDEOS",
+            title: "VERTICAL VIDEOS",
             videos: [
                 {
-                    title: "Reklama Nespresso [Matteo Brunetti] - script, DOP, editing",
+                    title: "Nespresso commercial [Matteo Brunetti] - script, DOP, editing",
                     yt_id: "In3yDbY2ykU",
                     type: "VERTICAL"
                 },
                 {
-                    title: "Promocja książki [Michał Wrzosek] - editing, color grading",
+                    title: "Cook book promo [Michał Wrzosek] - editing, color grading",
                     yt_id: "EscC4i380ns",
                     type: "VERTICAL"
                 }
