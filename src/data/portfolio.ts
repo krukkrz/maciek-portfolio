@@ -7,7 +7,7 @@ export const portfolio: Portfolio = {
             title: "VLOGS",
             videos: [
                 {
-                    title: "Co mi się stało? Najcięższy start w moim życiu | HYROX [Marta Kruk/Codziennie Fit]",
+                    title: "Co mi się stało? Najcięższy start w moim życiu | HYROX [Marta Kruk/Codziennie Fit] fiutt",
                     yt_id: "Hkzj6ldjuCA"
                 },
                 {
