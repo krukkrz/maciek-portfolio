@@ -54,19 +54,23 @@ export const portfolio: Portfolio = {
             videos: [
                 {
                     title: "Reklama Nespresso [Matteo Brunetti] - scenariusz, zdjęcia, montaż",
-                    ig_id: "DImNtiuibQn"
+                    yt_id: "In3yDbY2ykU",
+                    type: "VERTICAL"
                 },
                 {
                     title: "Reklama Skoda [Matteo Brunetti] - montaż",
-                    ig_id: "DPbpiHxjTgX"
+                    // yt_id: "MACIEEEEEK! daj ID i usuń "//"",
+                    type: "VERTICAL"
                 },
                 {
                     title: "Promocja książki [Michał Wrzosek] - montaż",
-                    ig_id: "DBGdaDtoqxN"
+                    // yt_id: "MACIEEEEEK! daj ID i usuń "//"",
+                    type: "VERTICAL"
                 },
                 {
                     title: "Maraton [Michał Wrzosek] - montaż",
-                    ig_id: "DA0y_VtIapT"
+                    // yt_id: "MACIEEEEEK! daj ID i usuń "//"",
+                    type: "VERTICAL"
                 }
             ]
         },

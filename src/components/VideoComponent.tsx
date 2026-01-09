@@ -1,17 +1,15 @@
 import { Video } from "../types/types";
 import YouTubeEmbed from "./YouTubeEmbed";
-import InstagramEmbed from "./InstagramEmbed";
 
 const VideoComponent = (props: { video: Video }) => {
     return (
-        <div>
-            <p>{props.video.title}</p>
-            {props.video.yt_id ? (
-                <YouTubeEmbed id={props.video.yt_id} />
-            ) : props.video.ig_id ? (
-                <InstagramEmbed id={props.video.ig_id} />
+        <div className="flex flex-col items-center">
+            <p className="text-[20px] mb-3">{props.video.title}</p>
+            {props.video.yt_id ?
+                (
+                <YouTubeEmbed id={props.video.yt_id} type={props.video.type} />
             ) : (
-                <>Maciek! Coś napsułeś!</>
+                <>Maciek! Dodaj YT ID</>
             )}
         </div>
     );

@@ -10,5 +10,7 @@ export type Section = {
 export type Video = {
     title: string
     yt_id?: string
-    ig_id?: string
+    type?: VideoType
 }
+
+export type VideoType = 'VERTICAL' | 'HORIZONTAL'
