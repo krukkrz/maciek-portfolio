@@ -19,7 +19,7 @@ export const portfolio: Portfolio = {
                     yt_id: "1poq3Ur_MeU"
                 },
                 {
-                    title: "Series from Iceland [Krzysztof Gonciarz]",
+                    title: "Series from Iceland [Krzysztof Gonciarz] fiut",
                     yt_id: "bPX9a1pVdeA"
                 },
                 {
