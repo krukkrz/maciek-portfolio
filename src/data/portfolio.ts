@@ -7,23 +7,23 @@ export const portfolio: Portfolio = {
             title: "VLOGS",
             videos: [
                 {
-                    title: "Co mi się stało? Najcięższy start w moim życiu | HYROX [Marta Kruk/Codziennie Fit] fiutt",
+                    title: "[PL] What happened to me? The hardest start in my life | HYROX [Codziennie Fit] - editing, color grading",
                     yt_id: "Hkzj6ldjuCA"
                 },
                 {
-                    title: "Przez te błędy nie masz efektów [Fit na zawsze]",
+                    title: " [PL] Those mistakes makes you fail [Fit na zawsze] - editing, color grading",
                     yt_id: "RIjUjbUkUco"
                 },
                 {
-                    title: "Odwiedziłem świadków UFO - SCAM czy PRAWDA [ojwojtek]",
+                    title: "[PL] I've met with UFO witnesses - SCAM or TRUTH [ojwojtek] - editing, color grading",
                     yt_id: "1poq3Ur_MeU"
                 },
                 {
-                    title: "Series from Iceland [Krzysztof Gonciarz] fiut",
+                    title: "[PL] Series from Iceland [Krzysztof Gonciarz] - editing, color grading",
                     yt_id: "bPX9a1pVdeA"
                 },
                 {
-                    title: "Burger Drwala po włosku! [Matteo Brunetti] - zdjęcia i montaż",
+                    title: "[PL] Lumberjack burger italian style! [Matteo Brunetti] - DOP, editing, color grading",
                     yt_id: "9VYFZ9ivbCQ"
                 }
             ]
@@ -32,19 +32,19 @@ export const portfolio: Portfolio = {
             title: "DOCUMENTARIES",
             videos: [
                 {
-                    title: "[ENG] Japan's Custom Lamborghini Legend [VICE]",
+                    title: "[ENG] Japan's Custom Lamborghini Legend [VICE] - editing, color grading",
                     yt_id: "QyouLW76qOc"
                 },
                 {
-                    title: "[ENG] The Menchi-Katsu King of Tokyo [Munchies]",
+                    title: "[ENG] The Menchi-Katsu King of Tokyo [Munchies] - editing, color grading",
                     yt_id: "UVZMF6sZp_g"
                 },
                 {
-                    title: "[ENG] MAN CITY FOOD TRUCK IN TOKYO [Man City]",
+                    title: "[ENG] MAN CITY FOOD TRUCK IN TOKYO [Man City] - editing, color grading",
                     yt_id: "xo1iNH9mWjE"
                 },
                 {
-                    title: "[PL] 500km on electric scooter SERIES [Kuba Klawiter]",
+                    title: "[PL] 500km on electric scooter SERIES [Kuba Klawiter] - editing, color grading",
                     yt_id: "-eYv5EAiZOU"
                 }
             ]
@@ -53,23 +53,13 @@ export const portfolio: Portfolio = {
             title: "IG/TT - VERTICAL VIDEOS",
             videos: [
                 {
-                    title: "Reklama Nespresso [Matteo Brunetti] - scenariusz, zdjęcia, montaż",
+                    title: "Reklama Nespresso [Matteo Brunetti] - script, DOP, editing",
                     yt_id: "In3yDbY2ykU",
                     type: "VERTICAL"
                 },
                 {
-                    title: "Reklama Skoda [Matteo Brunetti] - montaż",
-                    // yt_id: "MACIEEEEEK! daj ID i usuń "//"",
-                    type: "VERTICAL"
-                },
-                {
-                    title: "Promocja książki [Michał Wrzosek] - montaż",
-                    // yt_id: "MACIEEEEEK! daj ID i usuń "//"",
-                    type: "VERTICAL"
-                },
-                {
-                    title: "Maraton [Michał Wrzosek] - montaż",
-                    // yt_id: "MACIEEEEEK! daj ID i usuń "//"",
+                    title: "Promocja książki [Michał Wrzosek] - editing, color grading",
+                    yt_id: "EscC4i380ns"
                     type: "VERTICAL"
                 }
             ]
@@ -78,11 +68,11 @@ export const portfolio: Portfolio = {
             title: "MUSIC VIDEOS",
             videos: [
                 {
-                    title: "zawsze tam gdzie ja [palmowski]",
+                    title: "zawsze tam gdzie ja [palmowski] - script, DOP, editing, color grading",
                     yt_id: "caRgWZ-Cu3c"
                 },
                 {
-                    title: "Funk it [Mick Palmer]",
+                    title: "Funk it [Mick Palmer] - script, DOP, editing, color grading",
                     yt_id: "7MJeqnmFb-Q"
                 }
             ]
