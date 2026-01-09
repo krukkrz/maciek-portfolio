@@ -58,7 +58,7 @@ export const portfolio: Portfolio = {
                     type: "VERTICAL"
                 },
                 {
-                    title: "Cook book promo [Michał Wrzosek] - editing, color grading",
+                    title: "Cookbook promo [Michał Wrzosek] - editing, color grading",
                     yt_id: "EscC4i380ns",
                     type: "VERTICAL"
                 }
