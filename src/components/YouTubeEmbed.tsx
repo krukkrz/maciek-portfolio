@@ -1,8 +1,7 @@
 const YouTubeEmbed = (props: { id: string }) => {
     return (
         <iframe
-            width="560"
-            height="315"
+            className="w-full aspect-video"
             src={"https://www.youtube.com/embed/" + props.id}
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

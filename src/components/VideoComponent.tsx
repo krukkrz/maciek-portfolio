@@ -4,7 +4,7 @@ import InstagramEmbed from "./InstagramEmbed";
 
 const VideoComponent = (props: { video: Video }) => {
     return (
-        <>
+        <div>
             <p>{props.video.title}</p>
             {props.video.yt_id ? (
                 <YouTubeEmbed id={props.video.yt_id} />
@@ -13,7 +13,7 @@ const VideoComponent = (props: { video: Video }) => {
             ) : (
                 <>Maciek! Coś napsułeś!</>
             )}
-        </>
+        </div>
     );
 }
 
