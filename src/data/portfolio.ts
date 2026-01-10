@@ -15,16 +15,8 @@ export const portfolio: Portfolio = {
                     yt_id: "1poq3Ur_MeU"
                 },
                 {
-                    title: " [PL] Those mistakes makes you fail [Fit na zawsze] - editing, color grading",
-                    yt_id: "RIjUjbUkUco"
-                },
-                {
                     title: "[PL] What happened to me? The hardest start in my life | HYROX [Codziennie Fit] - editing, color grading",
                     yt_id: "Hkzj6ldjuCA"
-                },
-                {
-                    title: "[PL] Lumberjack burger italian style! [Matteo Brunetti] - DOP, editing, color grading",
-                    yt_id: "9VYFZ9ivbCQ"
                 }
             ]
         },
@@ -42,15 +34,11 @@ export const portfolio: Portfolio = {
                 {
                     title: "[ENG] MAN CITY FOOD TRUCK IN TOKYO [Man City] - editing, color grading",
                     yt_id: "xo1iNH9mWjE"
-                },
-                {
-                    title: "[PL] 500km on electric scooter SERIES [Kuba Klawiter] - editing, color grading",
-                    yt_id: "-eYv5EAiZOU"
                 }
             ]
         },
         {
-            title: "VERTICAL VIDEOS",
+            title: "PROMO VIDEOS",
             videos: [
                 {
                     title: "Nespresso commercial [Matteo Brunetti] - script, DOP, editing",
@@ -61,6 +49,10 @@ export const portfolio: Portfolio = {
                     title: "Cookbook promo [Michał Wrzosek] - editing, color grading",
                     yt_id: "EscC4i380ns",
                     type: "VERTICAL"
+                },
+                {
+                    title: "New collection [Modivo] - editing, color grading",
+                    yt_id: "HbmBgojwFy4",
                 }
             ]
         },
